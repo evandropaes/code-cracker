@@ -37,7 +37,7 @@ To build from source:
 
 ```shell
 git clone https://github.com/code-cracker/code-cracker.git
-cd CodeCracker
+cd code-cracker
 msbuild
 ```
 
